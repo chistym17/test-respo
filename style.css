@@ -273,9 +273,7 @@ nav li a {
 
     .header-journey {
         flex-direction: column-reverse;
-        /* Stack elements vertically */
         align-items: center;
-        /* Center items horizontally */
     }
 
     .hero {
@@ -333,11 +331,12 @@ nav li a {
     .main-card-container {
         width: auto;
         margin: 0px;
+        margin-top: 20px;
 
     }
 
     .card {
-        margin-top: 10px;
+        margin-top: 20px;
         text-align: center;
     }
 
